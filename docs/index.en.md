@@ -4,13 +4,9 @@
 
 # Foreword
 
-**The English version is still under development, please check [this issue](https://github.com/ruanhouli/cs-diy-fun/issues/222) if you want to contribute.**
-
 This is a self-learning guide to computer science, and a memento of my three years of self-learning at university.
 
 It is also a gift to the young students at Peking University. It would be a great encouragement and comfort to me if this book could be of even the slightest help to you in your college life.
-
-The book is currently organized to include the following sections (if you have other good suggestions, or would like to join the ranks of contributors, please feel free to email [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) or ask questions in the issue).
 
 - Productivity Toolkit: IDE, VPN, StackOverflow, Git, Github, Vim, Latex, GNU Make and so on.
 - Environment configuration: PC/Server development environment setup, DevOps tutorials and so on.
@@ -43,7 +39,7 @@ If you think I'm exaggerating, start with [CS61A](https://cs61a.org/), because i
 
 ## Why write this book?
 
-In the 2020 Fall semester, I worked as a teaching assistant for the class Introduction to Computer Systems at Peking University. At that time, I had been studying totally on my own for over a year. I enjoyed this style of learning immensely. To share this joy, I have made a [CS Self-learning Materials List](https://github.com/ruanhouli/Self-learning-Computer-Science) for students in my seminar. It was purely on a whim at the time, as I wouldn't dare to encourage my students to skip classes and study on their own.
+In the 2020 Fall semester, I worked as a teaching assistant for the class Introduction to Computer Systems at Peking University. At that time, I had been studying totally on my own for over a year. I enjoyed this  styleof learning immensely. To share this joy, I have made a [CS Self-learning Materials List](https://github.com/ruanhouli/Self-learning-Computer-Science) for students in my seminar. It was purely on a whim at the time, as I wouldn't dare to encourage my students to skip classes and study on their own.
 
 But after another year of maintenance, the list has become quite comprehensive, covering most of the courses in Computer Science, Artificial Intelligence and Soft Engineering, and I have built separate repositories for each course, summarising the self-learning materials that I used.
 
@@ -81,6 +77,3 @@ Of course, as an undergraduate student who has not yet graduated, I feel that I 
 
 I would like to express my sincere gratitude to all the professors who have made their courses public for free. These courses are the culmination of decades of their teaching careers, and they have chosen to selflessly make such a high quality CS education available to all. Without them, my university life would not have been as fulfilling and enjoyable. Many of the professors would even reply with hundreds of words in length after I had sent them a thank you email, which really touched me beyond words. They also inspired me all the time that if decide to do something, do it with all heart and soul.
 
-## Want to join as a contributor?
-
-There is a limit to how much one person can do, and this book was written by me under a heavy research schedule, so there are inevitably imperfections. In addition, as I work in the area of systems, many of the courses focus on systems, and there is relatively little content related to advanced mathematics, computing theory, and advanced algorithms. If any of you would like to share your self-learning experience and resources in other areas, you can directly initiate a Pull Request in the project, or feel free to contact me by email ([zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn)).

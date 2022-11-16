@@ -1,8 +1,8 @@
-site_name: CS自学指南
+site_name: 计算机科学自学乐园
 site_url: https://csdiy.fun/
 site_author: ruanhouli
 site_description: >-
-  CS自学指南
+  计算机科学自学乐园
 
 repo_name: cs-diy-fun
 repo_url: https://github.com/ruanhouli/cs-diy-fun/
@@ -73,10 +73,11 @@ plugins:
         en:
           name: English
           build: true
-          site_name: csdiy.fun
+          site_name: CS DIY Fun
       nav_translations:
         en:
           前言: Foreword
+          如何使用这本书: How to use
           一个仅供参考的CS学习规划: Guideline
           必学工具: Productivity Toolkit
           好书推荐: Book Recommendation

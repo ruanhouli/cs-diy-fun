@@ -34,11 +34,11 @@ In the second half of the course, the instructors will discuss a couple of class
 
 ## Complementary Resources
 
-All resources used and assignments implemented by @ruanhouli when learning this course are in [ruanhouli/MIT6.S081-2020fall - GitHub][github_ruanhouli].
+All resources used and assignments implemented by @ruanhouli when learning this course are in [PKUFlyingPig/MIT6.S081-2020fall - GitHub][github_pkuflyingpig].
 
 @[KuangjuX][KuangjuX] documented his [solutions][solution_kuangjux] with detailed explanations and complementary knowledge. Moreover, @[KuangjuX][KuangjuX] has reimplemented [the xv6 operating system in Rust][xv6-rust] which contains more detailed reviews and discussions about xv6.
 
-[github_ruanhouli]: https://github.com/ruanhouli/MIT6.S081-2020fall
+[github_pkuflyingpig]: https://github.com/PKUFlyingPig/MIT6.S081-2020fall
 [KuangjuX]: https://github.com/KuangjuX
 [solution_kuangjux]: https://github.com/KuangjuX/xv6-riscv-solution
 [xv6-rust]: https://github.com/Ko-oK-OS/xv6-rust
@@ -51,5 +51,5 @@ All resources used and assignments implemented by @ruanhouli when learning this 
 - [Zhou Fang](https://walkerzf.github.io/categories/6-S081/index.html)
 - [Yichun's Blog](https://www.yichuny.page/tags/Operating%20System)
 - [解析Ta](https://blog.csdn.net/u013577996/article/details/108679997)
-- [ruanhouli](https://github.com/ruanhouli/MIT6.S081-2020fall)
+- [PKUFlyingPig](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
 - [星遥见](https://www.cnblogs.com/weijunji/tag/XV6/)

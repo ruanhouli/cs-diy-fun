@@ -32,4 +32,4 @@ Finally, the most exciting part of the course is the 10 high-quality projects, a
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [ruanhouli/Princeton-Algorithm - GitHub](https://github.com/ruanhouli/Princeton-Algorithm).
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPig/Princeton-Algorithm - GitHub](https://github.com/PKUFlyingPig/Princeton-Algorithm).

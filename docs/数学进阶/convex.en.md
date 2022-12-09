@@ -21,4 +21,4 @@ In practice, you will deeply understand that for the same problem, a small chang
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPic/Standford_CVX101 - GitHub](https://github.com/ruanhouli/Standford_CVX101)
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPic/Standford_CVX101 - GitHub](https://github.com/PKUFlyingPig/Standford_CVX101)

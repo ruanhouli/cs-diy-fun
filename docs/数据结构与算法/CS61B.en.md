@@ -27,4 +27,4 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 
 ## Personal resources
 
-All resources and homework implementations used by @ruanhouli in this course are summarized in [ruanhouli/CS61B - GitHub](https://github.com/ruanhouli/CS61B).
+All resources and homework implementations used by @ruanhouli in this course are summarized in [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B).

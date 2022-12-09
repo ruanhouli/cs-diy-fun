@@ -22,4 +22,4 @@ The designers of this course have also written an open source textbook for this 
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPic/MIT18.330 - GitHub](https://github.com/ruanhouli/MIT18.330)
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPic/MIT18.330 - GitHub](https://github.com/PKUFlyingPig/MIT18.330)

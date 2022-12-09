@@ -19,4 +19,4 @@
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [ruanhouli/Computer-Network-A-Top-Down-Approach - GitHub](https://github.com/ruanhouli/Computer-Network-A-Top-Down-Approach).
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPig/Computer-Network-A-Top-Down-Approach - GitHub](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach).

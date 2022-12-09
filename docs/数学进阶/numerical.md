@@ -22,4 +22,4 @@
 
 ## 资源汇总
 
-@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [ruanhouli/MIT18.330 - GitHub](https://github.com/ruanhouli/MIT18.330) 中。
+@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT18.330 - GitHub](https://github.com/PKUFlyingPig/MIT18.330) 中。

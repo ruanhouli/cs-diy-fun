@@ -19,4 +19,4 @@
 
 ## 资源汇总
 
-@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [ruanhouli/Computer-Network-A-Top-Down-Approach - GitHub](https://github.com/ruanhouli/Computer-Network-A-Top-Down-Approach) 中。
+@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/Computer-Network-A-Top-Down-Approach - GitHub](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) 中。

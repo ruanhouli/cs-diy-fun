@@ -34,11 +34,11 @@
 
 ## 资源汇总
 
-@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [ruanhouli/MIT6.S081-2020fall - GitHub][github_ruanhouli] 中。
+@ruanhouli 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT6.S081-2020fall - GitHub][github_pkuflyingpig] 中。
 
 @[KuangjuX] 编写了 MIT 6.S081 的 lab 的[题解][solution_kuangjux]，里面有详细的解法和补充知识。另外，@[KuangjuX] 还使用 Rust 语言重新实现了 xv6-riscv 操作系统：[xv6-rust]，里面对于 xv6-riscv 有更为详细的思考和讨论，感兴趣的同学可以看一下哦。
 
-[github_ruanhouli]: https://github.com/ruanhouli/MIT6.S081-2020fall
+[github_pkuflyingpig]: https://github.com/PKUFlyingPig/MIT6.S081-2020fall
 [KuangjuX]: https://github.com/KuangjuX
 [solution_kuangjux]: https://github.com/KuangjuX/xv6-riscv-solution
 [xv6-rust]: https://github.com/Ko-oK-OS/xv6-rust
@@ -51,5 +51,5 @@
 - [Zhou Fang](https://walkerzf.github.io/categories/6-S081/index.html)
 - [Yichun's Blog](https://www.yichuny.page/tags/Operating%20System)
 - [解析Ta](https://blog.csdn.net/u013577996/article/details/108679997)
-- [ruanhouli](https://github.com/ruanhouli/MIT6.S081-2020fall)
+- [PKUFlyingPig](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
 - [星遥见](https://www.cnblogs.com/weijunji/tag/XV6/)

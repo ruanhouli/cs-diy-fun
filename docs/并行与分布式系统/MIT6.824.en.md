@@ -23,6 +23,6 @@ This course is so famous that you can easily have access to the project solution
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [ruanhouli/MIT6.824 - GitHub](https://github.com/ruanhouli/MIT6.824)
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPig/MIT6.824 - GitHub](https://github.com/PKUFlyingPig/MIT6.824)
 
 @[OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum) has written a [Lab Documentation](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) that quite clearly describes many of the details to be considered when implementing lab 1-4 and challenge 1-2, you can read when you encounter bottlenecks ~ ~

@@ -18,4 +18,4 @@ The highlight of this course is the six exciting labs that will allow you to use
 
 ## Personal Resources
 
-All the resources and assignments used by @ruanhouli in this course are maintained in [ruanhouli/UCB-EE120 - GitHub](https://github.com/ruanhouli/UCB-EE120)
+All the resources and assignments used by @ruanhouli in this course are maintained in [PKUFlyingPig/UCB-EE120 - GitHub](https://github.com/PKUFlyingPig/UCB-EE120)
